@@ -1,26 +1,155 @@
 <h1 align="center">Hi 👋, I'm Varun Krishna C</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
+<h3 align="center">🚀 Full Stack Developer | Backend Engineer | AI/ML Enthusiast</h3>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=varunkrishnac-18&label=Profile%20views&color=0e75b6&style=flat" alt="varunkrishnac-18" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varunkrishnac-18" alt="varunkrishnac-18" /></a> </p>
+### 👨‍💻 About Me
+- 🎓 B.Tech CSE @ SRM IST (GPA: **9.25/10**)
+- 💻 Strong in **Backend Systems, APIs & Scalable Applications**
+- 🌱 Currently learning **TypeScript, React.js & System Design**
+- 🤖 Passionate about **AI/ML, FinTech & Data-driven systems**
+- ⚡ Love building real-world impactful products
 
-- 🌱 I’m currently learning **TypeScript , React Js**
+---
 
-- 📫 How to reach me **varunkrishna281@gmail.com**
+### 💼 Experience
+- 💻 **Backend Developer Intern – Brain Mint (Present)**
+  - Developing **production-grade APIs & scalable backend systems**
+  - Focus on **database design & service architecture**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/varunkrishnac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varunkrishnac" height="30" width="40" /></a>
-<a href="https://instagram.com/varunkrishna_.18._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="varunkrishna_.18._" height="30" width="40" /></a>
+- 🏢 **IT Intern – TNPL**
+  - Worked on **Oracle ERP & PL/SQL queries**
+  - Improved reporting & operational efficiency
+
+- 🌐 **Web Developer Intern – Zidio**
+  - Built **data analytics dashboard**
+  - Used **Chart.js & Excel parsing (Sheet.js)**
+
+---
+
+### 🚀 Featured Projects
+
+#### 🔹 Smart P2P Lending Platform (FinTech)
+- ML-based prediction (**XGBoost, LightGBM, Random Forest**)
+- Includes **KYC, trust scoring & loan lifecycle system**
+
+#### 🔹 Inventory Pro Management System
+- 📊 Real-time analytics dashboard  
+- ⚡ Improved efficiency by **40%**
+
+#### 🔹 Excel Analytics Platform
+- Automated **data parsing & insights generation**
+
+#### 🔹 CareerPro (Smart India Hackathon - Top 50 🏆)
+- 👥 Supported **1000+ users**
+- Built with **React, Firebase, TypeScript**
+
+#### 🔹 Rainfall Forecasting (ML Project)
+- Models: **ARIMA, SARIMA, Prophet**
+
+---
+
+# 🛠️ Tech Stack & Skills
+
+### 💻 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 🌐 Web Development
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,html,css" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunkrishnac-18&show_icons=true&locale=en&layout=compact" alt="varunkrishnac-18" /></p>
+### 🧠 AI / Data / ML
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+📊 Machine Learning • Time Series Forecasting • Data Analysis
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varunkrishnac-18&show_icons=true&locale=en" alt="varunkrishnac-18" /></p>
+### 🛢️ Databases & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,aws,firebase" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varunkrishnac-18&" alt="varunkrishnac-18" /></p>
+### ⚙️ Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman" />
+📈 Excel • Debugging • Optimization
+</p>
+
+---
+
+### 📚 Core Skills
+- 💡 Data Structures & Algorithms  
+- 🏗️ System Design & Backend Architecture  
+- 🔄 RESTful API Development  
+- 📊 Machine Learning Fundamentals  
+- 🛢️ SQL / NoSQL Databases  
+- ⚡ Debugging & Optimization  
+
+---
+
+### 📜 Certifications
+- ☁️ AWS Cloud Practitioner (2026)
+- 🤖 AWS AI Practitioner (2026)
+- 🌐 AWS Cloud Foundations
+- 📊 NPTEL – Machine Learning
+- ☕ NPTEL – Java Programming
+- 🗄️ NPTEL – Database Systems
+- 🧠 Oracle Cloud Infrastructure
+
+---
+
+### 🏆 Achievements
+- 🥇 Smart India Hackathon – **Top 50 Finalist**
+- 🎯 Selected for **stipend-based backend internship**
+- 👨‍💼 Co-Head – IEEE TEMS
+
+---
+
+### 📬 Contact Me
+- 📧 Email: **varunkrishna281@gmail.com**
+- 💼 LinkedIn: https://linkedin.com/in/varun-krishna-c
+- 🐙 GitHub: https://github.com/VarunKrishnaC-18
+
+---
+
+### 🌐 Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/varun-krishna-c" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="https://instagram.com/varunkrishna_.18._" target="blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=varunkrishnac-18&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=varunkrishnac-18&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=varunkrishnac-18&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📈 Activity Graph
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=varunkrishnac-18&theme=tokyo-night" />
+</p>
+
+---
+
+### 👀 Profile Views
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=varunkrishnac-18&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
