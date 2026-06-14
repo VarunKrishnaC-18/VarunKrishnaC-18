@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varun Krishna C</h1>
-<h3 align="center">🚀 Full Stack Developer | Backend Engineer | AI/ML Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | Software Developer | AI/ML Enthusiast</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -15,39 +15,35 @@
 ---
 
 ### 💼 Experience
-- 💻 **Backend Developer Intern – Brain Mint (Present)**
-  - Developing **production-grade APIs & scalable backend systems**
-  - Focus on **database design & service architecture**
 
-- 🏢 **IT Intern – TNPL**
-  - Worked on **Oracle ERP & PL/SQL queries**
-  - Improved reporting & operational efficiency
-
-- 🌐 **Web Developer Intern – Zidio**
-  - Built **data analytics dashboard**
-  - Used **Chart.js & Excel parsing (Sheet.js)**
+- IT Intern @ TNPL
+- Full Stack Tech Lead @ Curious Wings
+- Backend Developer Intern @ BrainMint
+- Web Development Intern @ Zidio
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🔹 Smart P2P Lending Platform (FinTech)
-- ML-based prediction (**XGBoost, LightGBM, Random Forest**)
-- Includes **KYC, trust scoring & loan lifecycle system**
+### 🔹 AI-Powered P2P Lending Platform
+- 🤖 XGBoost-based loan default prediction
+- 🔐 KYC, Trust Scoring & Loan Tracking
 
-#### 🔹 Inventory Pro Management System
-- 📊 Real-time analytics dashboard  
-- ⚡ Improved efficiency by **40%**
+### 🔹 CareerPro (SIH Top 50 🏆)
+- 🎯 Personalized career recommendations
+- ⚡ React, Firebase & TypeScript
 
-#### 🔹 Excel Analytics Platform
-- Automated **data parsing & insights generation**
+### 🔹 Inventory Pro Management System
+- 📦 Full-Stack Inventory Management
+- 📊 Analytics Dashboard & Stock Monitoring
 
-#### 🔹 CareerPro (Smart India Hackathon - Top 50 🏆)
-- 👥 Supported **1000+ users**
-- Built with **React, Firebase, TypeScript**
+### 🔹 Excel Analytics Platform
+- 📈 Automated Excel Data Analysis
+- ⚡ Interactive Visual Reports
 
-#### 🔹 Rainfall Forecasting (ML Project)
-- Models: **ARIMA, SARIMA, Prophet**
+### 🔹 Air Quality Mapping using AI/ML
+- 🌍 Satellite Data Downscaling
+- 🤖 XGBoost + FastAPI + Leaflet
 
 ---
 
