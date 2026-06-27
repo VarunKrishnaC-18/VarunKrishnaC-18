@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Varun Krishna C</h1>
 <h3 align="center">🚀 Full Stack Developer | Software Developer | AI/ML Enthusiast</h3>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ---
 
